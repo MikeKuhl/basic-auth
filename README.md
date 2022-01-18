@@ -1,7 +1,7 @@
 # basic-auth
 
 Routes
-'/signup'
+## '/signup'
 Route used to create a new user using a POST request.
-'/signin'
+## '/signin'
 Route used to send back data on a GET request.
